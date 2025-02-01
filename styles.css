@@ -1,1 +1,34 @@
-
+img{
+	width: 20%;
+	height: 40%;
+}
+.photoDiv{
+	display: flex;
+}
+.details{
+	padding-left: 30px;
+	padding-top: 10px;
+	width: 50%;
+	height: 50%;
+}
+h2{
+text-decoration: underline blue;
+}
+.main{
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
+.container {
+  width: 90%;
+  background-color: lightgray;
+}
+.css {width: 80%; background-color: #2196F3;
+.skills {
+  text-align: right;
+  color: blue;
+}
+	  i{
+		  height:30%;
+		  width: 30%
+	  }
